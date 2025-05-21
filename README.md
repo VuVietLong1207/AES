@@ -1,6 +1,5 @@
 # Vũ Việt Long - 1771020435
-# Web sử dụng thuật toán AES để mã hóa/ giải mã
-
+# ATBMTT - AES encrypted and decrypted
 
 <div align="center">
     <p align="center">
